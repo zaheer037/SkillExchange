@@ -67,7 +67,11 @@ A robust, secure, and user-friendly platform that matches learners with teachers
 
 ## 🏗️ Architecture & Design
 
-### System Architecture
+### System Architecture Diagram
+
+![System Architecture](./architecture.png)
+
+### System Architecture Overview
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   User Layer    │    │  Business Logic │    │   Data Layer    │
@@ -211,6 +215,10 @@ If you prefer working with an IDE:
 3. Run the application
 
 ## 📖 Usage Guide
+
+### User Workflow Diagram
+
+![User Workflow](./userWorkflow.jpg)
 
 ### First Time User
 1. **Registration**
