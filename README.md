@@ -5,17 +5,17 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-green.svg?style=for-the-badge)](https://github.com/zaheer037/SkillExchange)
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Architecture & Design](#architecture--design)
-- [Screenshots & Demo](#screenshots--demo)
-- [Installation & Setup](#installation--setup)
-- [Usage Guide](#usage-guide)
-- [Technical Specifications](#technical-specifications)
-- [Security Features](#security-features)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [Architecture & Design](#️-architecture--design)
+- [Screenshots & Demo](#-screenshots--demo)
+- [Installation & Setup](#-installation--setup)
+- [Usage Guide](#-usage-guide)
+- [Technical Specifications](#-technical-specifications)
+- [Security Features](#️-security-features)
+- [Future Enhancements](#-future-enhancements)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 🌟 Overview
 
