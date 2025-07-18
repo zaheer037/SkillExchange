@@ -8,7 +8,7 @@
 - [Overview](#-overview)
 - [Key Features](#-key-features)
 - [Architecture & Design](#️-architecture--design)
-- [Screenshots & Demo](#-screenshots--demo)
+<!-- - [Screenshots & Demo](#-screenshots--demo) -->
 - [Installation & Setup](#-installation--setup)
 - [Usage Guide](#-usage-guide)
 - [Technical Specifications](#-technical-specifications)
@@ -71,24 +71,6 @@ A robust, secure, and user-friendly platform that matches learners with teachers
 
 ![System Architecture](./architecture.png)
 
-### System Architecture Overview
-```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   User Layer    │    │  Business Logic │    │   Data Layer    │
-│                 │    │                 │    │                 │
-│ • Registration  │◄──►│ • User Auth     │◄──►│ • File Storage  │
-│ • Login         │    │ • Skill Match   │    │ • Data Persist  │
-│ • Dashboard     │    │ • Notification  │    │ • Session Mgmt  │
-│ • Chat          │    │ • Chat System   │    │ • Security      │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-```
-
-### Data Flow Diagram
-```
-[User Input] → [Validation] → [Business Logic] → [Data Storage] → [Response]
-     ↑                                                              ↓
-[User Interface] ←─────────────── [Processing] ←─────────────── [File System]
-```
 
 ### Class Structure
 - **Main Class**: `SkillExchange.java`
@@ -101,6 +83,7 @@ A robust, secure, and user-friendly platform that matches learners with teachers
 
 ## 📸 Screenshots & Demo
 
+<!--
 ### 🖼️ Screenshot Suggestions
 
 > **For Project Evaluators**: Here are the key screens you should capture to showcase the application:
@@ -182,6 +165,7 @@ A robust, secure, and user-friendly platform that matches learners with teachers
 1. **Complete User Journey**: Register → Login → Add Skills → Find Matches → Connect → Chat
 2. **Multi-User Scenario**: Show two users connecting and exchanging contact information
 3. **Error Handling**: Demonstrate validation errors and recovery
+-->
 
 ## 🚀 Installation & Setup
 
