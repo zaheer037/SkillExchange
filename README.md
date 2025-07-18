@@ -8,7 +8,6 @@
 - [Overview](#-overview)
 - [Key Features](#-key-features)
 - [Architecture & Design](#️-architecture--design)
-<!-- - [Screenshots & Demo](#-screenshots--demo) -->
 - [Installation & Setup](#-installation--setup)
 - [Usage Guide](#-usage-guide)
 - [Technical Specifications](#-technical-specifications)
@@ -81,9 +80,10 @@ A robust, secure, and user-friendly platform that matches learners with teachers
   - Communication System
   - Data Persistence Layer
 
-## 📸 Screenshots & Demo
+
 
 <!--
+## 📸 Screenshots & Demo
 ### 🖼️ Screenshot Suggestions
 
 > **For Project Evaluators**: Here are the key screens you should capture to showcase the application:
